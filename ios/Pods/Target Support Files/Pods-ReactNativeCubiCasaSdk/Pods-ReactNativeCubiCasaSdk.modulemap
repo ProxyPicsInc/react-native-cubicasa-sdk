@@ -1,0 +1,6 @@
+framework module Pods_ReactNativeCubiCasaSdk {
+  umbrella header "Pods-ReactNativeCubiCasaSdk-umbrella.h"
+
+  export *
+  module * { export * }
+}
